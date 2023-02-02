@@ -1,0 +1,11 @@
+﻿  C_String_remaster.cpp
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(23,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(42,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(60,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(78,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(79,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(135,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(150,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(142): warning C4172: возвращение адреса локальной или временной переменной : i
+E:\Шкила\Шаг\C++\C_String_remaster\C_String_remaster\C_String_remaster.cpp(145): warning C4172: возвращение адреса локальной или временной переменной : wrong_ind
+  C_String_remaster.vcxproj -> E:\Шкила\Шаг\C++\C_String_remaster\x64\Debug\C_String_remaster.exe
